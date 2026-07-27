@@ -1,10 +1,10 @@
 # Financial KPI Analysis for Startup
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyses the financial performance of startups using Microsoft Excel and Tableau. The objective is to evaluate key financial metrics and present meaningful business insights through an interactive dashboard.
 
-## 🎯 Objectives
+## Objectives
 
 - Analyse startup financial performance.
 - Calculate key financial KPIs.
@@ -13,13 +13,13 @@ This project analyses the financial performance of startups using Microsoft Exce
 - Create an interactive Tableau dashboard.
 - Present business insights through data visualisation.
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Excel
 - Tableau Desktop
 - Startup Financial Dataset
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 - Revenue by Industry
 - Burn Rate by Industry
@@ -29,7 +29,7 @@ This project analyses the financial performance of startups using Microsoft Exce
 - KPI Summary
 - Interactive Filters
 
-## 📈 Key Insights
+## Key Insights
 
 - Revenue varies across startup industries.
 - Burn Rate differs based on business operations.
@@ -37,7 +37,7 @@ This project analyses the financial performance of startups using Microsoft Exce
 - Marketing expenses influence startup growth.
 - Interactive dashboards make financial analysis easier.
 
-## 👩‍💻 Author
+## Author
 
 **Bhumi Shree**
 
