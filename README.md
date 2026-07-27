@@ -39,6 +39,6 @@ This project analyses the financial performance of startups using Microsoft Exce
 
 ## Author
 
-**Bhumi Shree**
+**Bhumishree vedi LNR**
 
 Data Analytics Internship Project
