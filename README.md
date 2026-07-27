@@ -15,9 +15,9 @@ This project analyses the financial performance of startups using Microsoft Exce
 
 ## Tools Used
 
-- Microsoft Excel
-- Tableau Desktop
-- Startup Financial Dataset
+- Microsoft Excel – Data cleaning, KPI calculations, Pivot Tables and Charts.
+- Tableau Desktop – Interactive dashboard creation and data visualisation.
+- Startup Financial Dataset – Source data for financial analysis.
 
 ## Dashboard Features
 
